@@ -22,7 +22,7 @@
 
 ## Installation
 
-tbd
+Please refer to the Cherrytree notebook [kali-purple_notes.ctb](./kali-purple_notes.ctb) until the wiki has been created.
 
 ## Usage
 
