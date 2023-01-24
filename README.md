@@ -42,6 +42,10 @@ Please refer to the Cherrytree notebook [kali-purple_notes.ctb](./kali-purple_no
 
 [![Malcolm CyberChef](./pictures/Malcolm-06-CyberChef.png)](./pictures/Malcolm-06-CyberChef.png)  
 
+[![OpenCTI Dashboard](./pictures/OpenCTI-01-Dashboard.png)](./pictures/OpenCTI-01-Dashboard.png)  
+
+[![OpenCTI Dashboard](./pictures/OpenCTI-02-Vulnerabilities.png)](./pictures/OpenCTI-02-Vulnerabilities.png)  
+
 ## Roadmap
 
 Q1 2023:     Elastic installer package,  Kali-Purple installer  
