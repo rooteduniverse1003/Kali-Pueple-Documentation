@@ -1,7 +1,7 @@
 # Install dependencies:
 #----------------------
-sudo apt update && sudo full-upgrade
-sudo apt install xrdp nginx apache2-utils python3-pip python3-requests python3-dialog curl apt-transport-https gnupg-agent software-properties-common
+sudo apt update && sudo apt full-upgrade
+sudo apt install xrdp nginx apache2-utils python3-pip python3-requests python3-dialog curl apt-transport-https gnupg-agent software-properties-common docker.io
 
 # Install docker-cs:
 #----------------------
