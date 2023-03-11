@@ -22,7 +22,7 @@
 
 ## Installation
 
-Please refer to the Cherrytree notebook [kali-purple_notes.ctb](./kali-purple_notes.ctb) until the wiki has been created.
+Please refer to the [wiki](https://gitlab.com/kalilinux/documentation/kali-purple/-/wikis/home) for installation guides and more detailed information.
 
 ## Usage
 
@@ -48,9 +48,16 @@ Please refer to the Cherrytree notebook [kali-purple_notes.ctb](./kali-purple_no
 
 ## Roadmap
 
-Q1 2023:     Elastic installer package,  Kali-Purple installer  
-Q2 2023:     Custom Kibana dashboards  
-Q3 2023 ff.: The community decides the roadmap  
+- [x] Create Kali Purple installer
+- [x] Include Elastic stack sources
+- [x] Package up Arkime
+- [x] Package up Cyberchef
+- [ ] Package up TheHive
+- [ ] Package up Elastic stack
+- [x] Release Kali Autopilot
+- [x] Create Kali Purple SOC-IAB Wiki
+- [ ] Release Kali Purple
+- [ ] Q3 2023 ff.: The community decides the future roadmap  
 
 ## Contributing
 
